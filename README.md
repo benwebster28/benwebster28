@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**benwebster28/benwebster28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ben Webster, a Software Engineer with a background in nuclear technology and experience in Python and Fortran. I'm passionate about coding, data analysis, and building innovative solutions.
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developed Python models to assess the thermal and stress performance of advanced nuclear fuels from self-derived solutions.
+- Conducted Monte Carlo analysis for nuclear fuel parameterisation, enhancing simulation accuracy.
+- Built a machine learning model in Python to read dot matrix codes on fuel pellets via image recognition.
+
+## 🚀 Skills
+
+- Python (back-end, mathematical modelling, APIs)
+- Fortran (mathematical modelling, nuclear FEA simulations)
+- Data Visualization (Matplotlib, Pandas, PostgreSQL)
+
+## 📚 Projects
+
+- **Nuclear Power Conversion Model** *(in progress)*
+- **Sports Betting Data Analysis** *(ongoing)*
+- **Spotify Playlist Analyzer** *(coming soon)*
+
+## 📫 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ben-webster-56ba49141/)
+- [Email](mailto:benwebster287@gmail.com)
+
+Feel free to explore my repositories and join me on this journey of learning and building cool stuff!
+
+---
+
+⭐️ *Powered by curiosity and code.*
+
